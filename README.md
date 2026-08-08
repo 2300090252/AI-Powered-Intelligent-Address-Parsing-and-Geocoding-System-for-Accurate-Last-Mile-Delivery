@@ -1,10 +1,4 @@
-Based on your GitHub repository name:
 
-**AI-Powered Intelligent Address Parsing and Geocoding System for Accurate Last-Mile Delivery**
-
-here is a professional **README**, **Problem Statement**, and **Solution** suitable for your GitHub repository and project submission.
-
----
 
 # 📍 AI-Powered Intelligent Address Parsing and Geocoding System for Accurate Last-Mile Delivery
 
@@ -186,7 +180,3 @@ AI-Powered-Intelligent-Address-Parsing-and-Geocoding-System/
 ├── requirements.txt
 └── LICENSE
 ```
-
-This README is suitable for a final-year engineering project, hackathon submission, or professional GitHub repository.
-
-[1]: https://arxiv.org/abs/2311.11846?utm_source=chatgpt.com "Deepparse : An Extendable, and Fine-Tunable State-Of-The-Art Library for Parsing Multinational Street Addresses"
