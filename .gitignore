@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Production builds
+dist/
+frontend/dist/
+
+# Environment files
+.env
+frontend/.env
+*.env.local
+
+# Python cache & virtual environments
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# System / IDE generated files
+.DS_Store
+.system_generated/
+.idea/
+.vscode/
+*.log
